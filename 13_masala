@@ -1,0 +1,4 @@
+grade=int(input ("gradusni kiriting: "))
+radian= float (57.296)
+natija=grade /radian 
+print(natija)
